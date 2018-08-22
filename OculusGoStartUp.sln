@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusGoStartUp", "Assembly-CSharp.csproj", "{3AB2A7AD-EA2A-7A3B-AFB7-7CCBEEA96BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusGoStartUp", "Assembly-CSharp-Editor.csproj", "{DFAF04EF-2A66-8790-D73B-961BCC2A089B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB2A7AD-EA2A-7A3B-AFB7-7CCBEEA96BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB2A7AD-EA2A-7A3B-AFB7-7CCBEEA96BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB2A7AD-EA2A-7A3B-AFB7-7CCBEEA96BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB2A7AD-EA2A-7A3B-AFB7-7CCBEEA96BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAF04EF-2A66-8790-D73B-961BCC2A089B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAF04EF-2A66-8790-D73B-961BCC2A089B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAF04EF-2A66-8790-D73B-961BCC2A089B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAF04EF-2A66-8790-D73B-961BCC2A089B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
